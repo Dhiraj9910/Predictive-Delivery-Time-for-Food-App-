@@ -1,6 +1,6 @@
-setwd("C:\\Users\\athar\\OneDrive\\Desktop\\shubham\\suyash")
+setwd("C:\\Users\\athar\\OneDrive\\Desktop\")
 getwd()
-data <- read.csv("/Users/siddharth/Desktop/UB/DATA ANALYTICS/DAPM/DAPM Final Project/data.csv")
+data <- read.csv("/Users/Desktop/UB/DATA ANALYTICS/DAPM/DAPM Final Project/data.csv")
 # install.packages("geosphere")
 library(geosphere)
 
